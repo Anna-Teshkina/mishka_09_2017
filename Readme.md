@@ -1,7 +1,7 @@
-# Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+﻿# Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Анна Тёшкина](https://up.htmlacademy.ru/adaptive/12/user/305561).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Байдаров]( https://htmlacademy.ru/profile/4er).
 
 ---
 
@@ -56,3 +56,4 @@ git clone SSH-адрес_вашего_форка
 [travis-url]: https://travis-ci.org/htmlacademy-adaptive/305561-mishka
 [dependency-image]: https://david-dm.org/htmlacademy-adaptive/305561-mishka/dev-status.svg?style=flat-square
 [dependency-url]: https://david-dm.org/htmlacademy-adaptive/305561-mishka?type=dev
+
